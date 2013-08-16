@@ -1,0 +1,16 @@
+{
+  "name": "webgl-playground",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "three": "~0.58.9",
+    "rfileify": "~1.2.0"
+  }
+}
