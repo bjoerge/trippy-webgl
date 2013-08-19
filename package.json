@@ -11,6 +11,6 @@
   "license": "BSD",
   "dependencies": {
     "three": "~0.58.9",
-    "rfileify": "~1.2.0"
+    "brfs": "0.0.7"
   }
 }
